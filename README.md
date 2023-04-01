@@ -1,5 +1,5 @@
  Hi, I’m @CJJP-git
- I’m interested in machine learning and computer vision
+ I’m interested in topology optimization
 
 
 <!---
